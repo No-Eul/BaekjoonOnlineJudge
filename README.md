@@ -283,6 +283,87 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
       <a href="https://github.com/No-Eul/BaekjoonOnlineJudge/blob/1152/java/src/main/java/Main3.java">#3</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      2577
+    </td>
+    <td><a href="https://www.acmicpc.net/problem/2577">숫자의 개수</a></td>
+    <td>Java 8</td>
+    <td>
+      <a href="https://www.acmicpc.net/source/86436090">BOJ</a> /
+      <a href="https://github.com/No-Eul/BaekjoonOnlineJudge/blob/2577/java/src/main/java/Main.java">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      2675
+    </td>
+    <td rowspan="2"><a href="https://www.acmicpc.net/problem/2675">문자열 반복</a></td>
+    <td>Java 8</td>
+    <td>
+      <a href="https://www.acmicpc.net/source/86436090">BOJ</a> /
+      <a href="https://github.com/No-Eul/BaekjoonOnlineJudge/blob/2675/java8/src/main/java/Main.java">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Java 11</td>
+    <td>
+      <a href="https://www.acmicpc.net/source/86436777">BOJ</a> /
+      <a href="https://github.com/No-Eul/BaekjoonOnlineJudge/blob/2675/java11/src/main/java/Main.java">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      2920
+    </td>
+    <td><a href="https://www.acmicpc.net/problem/2920">음계</a></td>
+    <td>Java 8</td>
+    <td>
+      <a href="https://www.acmicpc.net/source/86437438">BOJ</a> /
+      <a href="https://github.com/No-Eul/BaekjoonOnlineJudge/blob/2920/java/src/main/java/Main.java">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      3052
+    </td>
+    <td><a href="https://www.acmicpc.net/problem/3052">나머지</a></td>
+    <td>Java 8</td>
+    <td>
+      <a href="https://www.acmicpc.net/source/86438085">BOJ</a> /
+      <a href="https://github.com/No-Eul/BaekjoonOnlineJudge/blob/3052/java/src/main/java/Main.java">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      8958
+    </td>
+    <td><a href="https://www.acmicpc.net/problem/8958">OX퀴즈</a></td>
+    <td>Java 8</td>
+    <td>
+      <a href="https://www.acmicpc.net/source/86438931">BOJ #1</a>
+      <a href="https://www.acmicpc.net/source/86438541">#2</a> /
+      <a href="https://github.com/No-Eul/BaekjoonOnlineJudge/blob/8958/java/src/main/java/Main.java">GitHub #1</a>
+      <a href="https://github.com/No-Eul/BaekjoonOnlineJudge/blob/8958/java/src/main/java/Main2.java">#2</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      10809
+    </td>
+    <td><a href="https://www.acmicpc.net/problem/10809">알파벳 찾기</a></td>
+    <td>Java 8</td>
+    <td>
+      <a href="https://www.acmicpc.net/source/86439798">BOJ</a> /
+      <a href="https://github.com/No-Eul/BaekjoonOnlineJudge/blob/10809/java/src/main/java/Main.java">GitHub</a>
+    </td>
+  </tr>
 </tbody>
 </table>
 

@@ -3,4 +3,4 @@ Java 8로 작성한 [<img src="https://static.solved.ac/tier_small/1.svg" height
 24086 身長 (Height)](https://www.acmicpc.net/problem/24086) 답안입니다.
 
 [문제 풀기](https://www.acmicpc.net/problem/24086) /
-[제출 보기](https://www.acmicpc.net/source/87108521)
+[제출 보기](https://www.acmicpc.net/source/87108535)

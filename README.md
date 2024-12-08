@@ -369,6 +369,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
 
 ## 시도 중인 문제
 * [<img src="https://static.solved.ac/tier_small/22.svg" height="20" align="center"> 3203 프로그래밍 언어 Z](https://www.acmicpc.net/problem/3203) ([Java 8](https://github.com/No-Eul/BaekjoonOnlineJudge/tree/3203/java))
+* [<img src="https://static.solved.ac/tier_small/19.svg" height="20" align="center"> 6400 Calculator Language](https://www.acmicpc.net/problem/6400) ([Java 8](https://github.com/No-Eul/BaekjoonOnlineJudge/tree/6400/java8))
 
 ## 외부 링크
 * [BOJ 프로필](https://www.acmicpc.net/user/noeul)

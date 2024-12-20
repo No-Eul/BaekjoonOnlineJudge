@@ -9,16 +9,16 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
 <table>
 <thead>
   <tr>
-    <td align="center">ID</td>
-    <td align="center">제목</td>
-    <td align="center">언어</td>
-    <td align="center">제출 및 답안</td>
+    <td>ID</td>
+    <td>제목</td>
+    <td>언어</td>
+    <td>제출 및 답안</td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/17.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/17.svg" height="20">
       1287
     </td>
     <td><a href="https://www.acmicpc.net/problem/1287">할 수 있다</a></td>
@@ -30,7 +30,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/21.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/21.svg" height="20">
       11516
     </td>
     <td><a href="https://www.acmicpc.net/problem/11516">Interpreter</a></td>
@@ -41,7 +41,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
     </td>
   </tr>
   <tr>
-    <td rowspan="2"><img src="https://static.solved.ac/tier_small/1.svg" height="20" align="center"> 2438</td>
+    <td rowspan="2"><img src="https://static.solved.ac/tier_small/1.svg" height="20"> 2438</td>
     <td rowspan="2"><a href="https://www.acmicpc.net/problem/2438">별 찍기 - 1</a></td>
     <td>Java 8</td>
     <td>
@@ -58,7 +58,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/1.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/1.svg" height="20">
       2475
     </td>
     <td><a href="https://www.acmicpc.net/problem/2475">검증수</a></td>
@@ -70,7 +70,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/1.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/1.svg" height="20">
       2739
     </td>
     <td><a href="https://www.acmicpc.net/problem/2739">구구단</a></td>
@@ -82,7 +82,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/1.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/1.svg" height="20">
       2741
     </td>
     <td><a href="https://www.acmicpc.net/problem/2741">N 찍기</a></td>
@@ -94,7 +94,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/1.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/1.svg" height="20">
       2753
     </td>
     <td><a href="https://www.acmicpc.net/problem/2753">윤년</a></td>
@@ -106,7 +106,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/1.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/1.svg" height="20">
       9498
     </td>
     <td><a href="https://www.acmicpc.net/problem/9498">시험 성적</a></td>
@@ -118,7 +118,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/1.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/1.svg" height="20">
       10871
     </td>
     <td><a href="https://www.acmicpc.net/problem/10871">X보다 작은 수</a></td>
@@ -130,7 +130,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/1.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/1.svg" height="20">
       10950
     </td>
     <td><a href="https://www.acmicpc.net/problem/10950">A+B - 3</a></td>
@@ -142,7 +142,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/1.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/1.svg" height="20">
       10951
     </td>
     <td><a href="https://www.acmicpc.net/problem/10951">A+B - 4</a></td>
@@ -154,7 +154,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/1.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/1.svg" height="20">
       10952
     </td>
     <td><a href="https://www.acmicpc.net/problem/10952">A+B - 5</a></td>
@@ -166,7 +166,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/1.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/1.svg" height="20">
       11654
     </td>
     <td><a href="https://www.acmicpc.net/problem/11654">아스키 코드</a></td>
@@ -178,7 +178,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/1.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/1.svg" height="20">
       27866
     </td>
     <td><a href="https://www.acmicpc.net/problem/27866">문자와 문자열</a></td>
@@ -190,7 +190,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td rowspan="2">
-      <img src="https://static.solved.ac/tier_small/2.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/2.svg" height="20">
       2439
     </td>
     <td rowspan="2"><a href="https://www.acmicpc.net/problem/2439">별 찍기 - 2</a></td>
@@ -209,7 +209,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/2.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/2.svg" height="20">
       11720
     </td>
     <td><a href="https://www.acmicpc.net/problem/11720">숫자의 합</a></td>
@@ -221,7 +221,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/2.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/2.svg" height="20">
       31403
     </td>
     <td><a href="https://www.acmicpc.net/problem/31403">$A + B - C$</a></td>
@@ -233,7 +233,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/3.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/3.svg" height="20">
       2562
     </td>
     <td><a href="https://www.acmicpc.net/problem/2562">최댓값</a></td>
@@ -245,7 +245,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/3.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/3.svg" height="20">
       10250
     </td>
     <td><a href="https://www.acmicpc.net/problem/10250">ACM 호텔</a></td>
@@ -257,7 +257,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/3.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/3.svg" height="20">
       10818
     </td>
     <td><a href="https://www.acmicpc.net/problem/10818">최소, 최대</a></td>
@@ -269,7 +269,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20">
       1152
     </td>
     <td><a href="https://www.acmicpc.net/problem/1152">단어의 개수</a></td>
@@ -285,7 +285,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20">
       2577
     </td>
     <td><a href="https://www.acmicpc.net/problem/2577">숫자의 개수</a></td>
@@ -297,7 +297,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td rowspan="2">
-      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20">
       2675
     </td>
     <td rowspan="2"><a href="https://www.acmicpc.net/problem/2675">문자열 반복</a></td>
@@ -316,7 +316,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20">
       2920
     </td>
     <td><a href="https://www.acmicpc.net/problem/2920">음계</a></td>
@@ -328,7 +328,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20">
       3052
     </td>
     <td><a href="https://www.acmicpc.net/problem/3052">나머지</a></td>
@@ -340,7 +340,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20">
       8958
     </td>
     <td><a href="https://www.acmicpc.net/problem/8958">OX퀴즈</a></td>
@@ -354,7 +354,7 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
   </tr>
   <tr>
     <td>
-      <img src="https://static.solved.ac/tier_small/4.svg" height="20" align="center">
+      <img src="https://static.solved.ac/tier_small/4.svg" height="20">
       10809
     </td>
     <td><a href="https://www.acmicpc.net/problem/10809">알파벳 찾기</a></td>
@@ -368,8 +368,9 @@ My problem-solving solutions repository for [Baekjoon Online Judge](https://www.
 </table>
 
 ## 시도 중인 문제
-* [<img src="https://static.solved.ac/tier_small/22.svg" height="20" align="center"> 3203 프로그래밍 언어 Z](https://www.acmicpc.net/problem/3203) ([Java 8](https://github.com/No-Eul/BaekjoonOnlineJudge/tree/3203/java))
-* [<img src="https://static.solved.ac/tier_small/19.svg" height="20" align="center"> 6400 Calculator Language](https://www.acmicpc.net/problem/6400) ([Java 8](https://github.com/No-Eul/BaekjoonOnlineJudge/tree/6400/java8))
+* [<img src="https://static.solved.ac/tier_small/22.svg" height="20"> 3203 프로그래밍 언어 Z](https://www.acmicpc.net/problem/3203) ([Java 8](https://github.com/No-Eul/BaekjoonOnlineJudge/tree/3203/java))
+* [<img src="https://static.solved.ac/tier_small/19.svg" height="20"> 6400 Calculator Language](https://www.acmicpc.net/problem/6400) ([Java 8](https://github.com/No-Eul/BaekjoonOnlineJudge/tree/6400/java8))
+* [<img src="https://static.solved.ac/tier_small/21.svg" height="20"> 5112 Functional Programming Counts](https://www.acmicpc.net/problem/5112) ([Java 8](https://github.com/No-Eul/BaekjoonOnlineJudge/tree/5112/java8))
 
 ## 외부 링크
 * [BOJ 프로필](https://www.acmicpc.net/user/noeul)
